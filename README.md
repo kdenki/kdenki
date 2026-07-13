@@ -15,6 +15,6 @@ I can't think of anything right now.
 Maybe... RTL-level optimization.
 
 - 💬 Ask me about Analog electronic circuits.
-- 📫 How to reach me: kinoshita-elec@mbn.nifty.com
+- 📫 How to reach me: info@kdenki.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Current induces current.
